@@ -1,5 +1,5 @@
 import React from 'react';
-import RouteContainer from './container/RouteContainer';
+import {RouteContainer} from './container/RouteContainer';
 
 function App() {
   return (
